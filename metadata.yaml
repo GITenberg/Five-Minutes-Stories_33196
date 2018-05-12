@@ -1,0 +1,45 @@
+_repo: Five-Minutes-Stories_33196
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Morgan, Walter Jenks
+    aliases:
+    - Morgan, W. J. (Walter Jenks)
+    - Morgan, Walter J. (Walter Jenks)
+    birthdate: 1847
+    deathdate: 1924
+    gutenberg_agent_id: '34670'
+    url: http://www.gutenberg.org/2009/agents/34670
+covers:
+- cover_type: archival
+  image_path: 33196-h/images/cover1.jpg
+creator:
+  author:
+    agent_name: Molesworth, Mrs.
+    aliases:
+    - Molesworth, Mary Louisa Stewart
+    - Mrs. (Mary Louisa) Molesworth
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+description: ''
+gutenberg_issued: '2010-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33196'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Short stories'
+tableOfContents: Abdallah the unhappy -- Fifine and her cat -- The long ladder --
+  A four-footed gentleman -- The bad fairy -- The goblin face -- The lost brooch --
+  Only a bunch of violets -- A canary tragedy -- Coo-Coo's second husband -- Harry's
+  reward -- Brothers and mushrooms -- A remarkable watch -- The blackberry elf.
+title: Five Minutes' Stories
+url: http://www.gutenberg.org/ebooks/33196
